@@ -136,7 +136,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginTop="20dp"
                 android:layout_marginBottom="50dp"
-                android:text="데이트코스 추천 BEST 3333333"
+                android:text="데이트코스 추천 BEST 3"
                 android:textColor="#FFB300"
                 android:textStyle="bold">
 
